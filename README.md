@@ -2,7 +2,7 @@
 
 ## Presentación
 
-### Buenas! Bienvenido a mi Github! \n
+### Buenas! Bienvenido a mi Github!
 Mi nombre es Alex y actualmente estoy reforzando mis conocimientos en programación web.
 Tengo conociemiento en las siguientes tecnologías: 
 
