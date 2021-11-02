@@ -1,8 +1,8 @@
-#console.log("Hello there!");
+## console.log("Hello there!");
 
-#Presentación
+## Presentación
 
-Buenas! Bienvenido a mi Github!
+###Buenas! Bienvenido a mi Github!
 Mi nombre es Alex y actualmente estoy reforzando mis conocimientos en programación web.
 Tengo conociemiento en las siguientes tecnologías: 
 
