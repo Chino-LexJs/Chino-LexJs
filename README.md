@@ -1,6 +1,22 @@
-**console.log("Hello there!");**
+##console.log("Hello there!");
 
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+##Presentación
+
+Buenas! Bienvenido a mi Github!
+Mi nombre es Alex y actualmente estoy reforzando mis conocimientos en programación web.
+Tengo conociemiento en las siguientes tecnologías: 
+
+- Javascript
+- React
+- Node
+- Express
+- PostgreSQL
+- Sequelize
+- C#
+- Java
+- Patron de estados Redux 
+- Programación Orientada a Objetos
+
 <!--
 **Chino-LexJs/Chino-LexJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
