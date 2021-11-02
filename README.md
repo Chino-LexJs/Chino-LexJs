@@ -1,9 +1,10 @@
-### Hi there 👋
+**console.log("Hello there!");**
 
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 <!--
 **Chino-LexJs/Chino-LexJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+
 
 Here are some ideas to get you started:
 
