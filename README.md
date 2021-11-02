@@ -3,7 +3,8 @@
 ## Presentación
 
 ### Buenas! Bienvenido a mi Github!
-Mi nombre es Alex y actualmente estoy reforzando mis conocimientos en programación web.
+Mi nombre es Alex y actualmente estoy reforzando mis conocimientos en programación web. 
+
 Tengo conociemiento en las siguientes tecnologías: 
 
 - Javascript
