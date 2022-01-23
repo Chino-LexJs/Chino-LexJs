@@ -11,14 +11,18 @@ Mi nombre es Alex y actualmente estoy reforzando mis conocimientos en programaci
 Tengo conociemiento en las siguientes tecnologías: 
 
 - Javascript
-- React
-- Node
-- Express
-- PostgreSQL
-- Sequelize
+- TypeScript
 - C#
 - Java
-- Patron de estados Redux 
+- React
+- NextJs
+- NodeJs
+- Express
+- .NET
+- PostgreSQL
+- Sequelize
+- MongoDB
+- Patrón de estados Redux 
 - Programación Orientada a Objetos
 
 <!--
